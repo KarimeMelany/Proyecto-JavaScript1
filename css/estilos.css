@@ -1,6 +1,7 @@
 input[type="button"]
 {
-    width: 10%;
-    padding: 20px;
-    background-color: rgba(235, 111, 198, 0.911);
+    width: 20%;
+    padding: 30px;
+    background-color: rgba(210, 111, 235, 0.911);
+    
 }

@@ -1,12 +1,12 @@
 let mensaje="Hola Mundo";
 console.log(mensaje);
-let numerouno=5;
+let numerouno=4;
 let numerodos=6;
 let numerotres=3;
 
 function sumar()
 {
-let numerouno=5;
+let numerouno=4;
 let numerodos=6;
 let numerotres=3;
 let resultado=numerouno+numerodos+numerotres;
@@ -14,7 +14,7 @@ let resultado=numerouno+numerodos+numerotres;
 }
 function restar()
 {
-let numerouno=5;
+let numerouno=4;
 let numerodos=6;
 let numerotres=3;
 let resultado=numerouno-numerodos-numerotres;
@@ -22,7 +22,7 @@ let resultado=numerouno-numerodos-numerotres;
 }
 function multiplicar()
 {
-let numerouno=5;
+let numerouno=4;
 let numerodos=6;
 let numerotres=3;
 let resultado=numerouno*numerodos*numerotres;
@@ -30,7 +30,7 @@ let resultado=numerouno*numerodos*numerotres;
 }
 function dividir()
 {
-let numerouno=5;
+let numerouno=4;
 let numerodos=6;
 let numerotres=3;
 let resultado=numerouno/numerodos/numerotres;
