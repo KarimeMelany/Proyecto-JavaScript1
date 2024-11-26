@@ -5,3 +5,15 @@ input[type="button"]
     background-color: rgba(210, 111, 235, 0.911);
     
 }
+.borde-negro{
+    font-weight: bold;
+    color: #eee7e7;
+    font-size: 15px;
+    border-radius: 8px;
+    margin-top: 10px;
+    background-color: rgb(139, 72, 202);
+    font-size: 20px;
+    width: 10%;
+    padding: 10px;
+     
+}
